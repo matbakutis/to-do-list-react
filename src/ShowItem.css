@@ -1,0 +1,15 @@
+.doneBtn {
+	display: none;
+}
+
+.crossOut {
+	text-decoration: line-through;
+}
+
+#items {
+	padding: 0;
+}
+
+.item {
+	margin-bottom: 1em; 
+}
